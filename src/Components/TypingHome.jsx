@@ -7,12 +7,12 @@ const TypingHome = () => {
     <>
       <div className="home-navbar-container">
         <div className="home-navbar-left-container">
-          <a href="/">Typing Test</a>
+          <a href="/" style={{fontSize: "1.8rem"}}>Typing Dash Pro</a>
         </div>
         <div className="home-navbar-right-container">
-          <p>Home</p>
-          <p>About</p>
-          <p>Contact Us</p>
+          <p></p>
+          <p></p>
+          <p></p>
         </div>
       </div>
     </>

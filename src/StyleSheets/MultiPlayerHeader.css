@@ -12,7 +12,7 @@
   align-items: flex-start;
   width: 100%;
   height: 90vh;
-  background: #191919;
+  background: url("https://images.unsplash.com/photo-1510519138101-570d1dca3d66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1147&q=80");
 }
 
 .create-room-container {
